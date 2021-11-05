@@ -19,7 +19,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "gt-chart",
+    "name": "product",
     "version": "1.0.0",
     "author": "kuroky",
     "scripts": {
